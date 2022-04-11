@@ -13,5 +13,6 @@ every other Wordle-based clone out there. The goal is to guess the time of day f
 ## Project Architecture
 
 This is a plain-JS application, using [Parcel](https://parceljs.org) to combine all of the JS files
-into a single one. Code pushed to the `main` branch is automatically deployed with [Vercel](),
-mostly because I couldn't be bothered with getting a domain and hosting it on my own.
+into a single one. Code pushed to the `main` branch is automatically deployed with
+[Vercel](https://vercel.com), mostly because I couldn't be bothered with getting a domain and
+hosting it on my own.
