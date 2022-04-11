@@ -1,0 +1,8 @@
+{
+  "name": "timele",
+  "version": "1.0.0",
+  "description": "Guess the time of day in 5 tries",
+  "repository": "https://github.com/trg5503/timele.git",
+  "author": "trg5503",
+  "license": "MIT"
+}
